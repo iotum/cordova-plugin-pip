@@ -1,3 +1,5 @@
+Iotum's fork of the cordova-plugin-pip package on npm
+
 Package:
 cordova-plugin-pip
 
